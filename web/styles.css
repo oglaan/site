@@ -4,12 +4,12 @@
 
 h1 {
 	font-family: Brushstroke, fantasy;
-	color: #020063;
+	color: #000000;
 }
 
 body {
 	background-image: url("background.jpg");
-	background-color: #ffffff;
+	background-color: #FEF5CA;
 
 }
 
@@ -29,7 +29,7 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #9f9ea5;
+	background-color: #00FF99;
 	width: 100%;
 	height: auto;
 	font-family: Helvetica;
@@ -38,7 +38,7 @@ section {
 	overflow: auto;
 }
 
-#pollo {
+#chicken {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -49,10 +49,10 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #fdfdfa;
+	background-color: #FFFF00;
 }
 
-#carne {
+#beef {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -63,8 +63,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-    background-color: #5e0310;
-    color: white;
+	background-color: #FF1439;
 }
 
 #sushi {
@@ -77,17 +76,17 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #0d59e7;
+	background-color: #6495ED;
 	color: white;
 	padding: 5px;
 }
 
-#pollo-div {
+#chicken-div {
   margin-bottom: 10px;
   margin-top: 10px;
 }
 
-#carne-div {
+#beef-div {
   margin-bottom: 10px;
   margin-top: 10px;
 }
@@ -105,12 +104,12 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #042146;
-  color: #ffffff;
+  background-color: #FC5F06;
+  color: #FFFFFF;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #ffffff;
+  border: 1px solid #61122f;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
